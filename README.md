@@ -45,7 +45,7 @@
 ### My Blog
 <a href="https://dddang.vercel.app/" target="_blank" >
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=vercel&link=https://dddang.vercel.com/"
+        src="http://img.shields.io/badge/Tech Blog-%23000000.svg?&style=for-the-badge&logo=vercel&link=https://dddang.vercel.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
