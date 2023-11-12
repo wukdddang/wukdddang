@@ -34,6 +34,8 @@
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 <br/>
 
+<img src="https://img.shields.io/badge/vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white" />
+<img src="https://img.shields.io/badge/testing library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white" />
 <img src="https://img.shields.io/badge/mock service worker-%23FF6A33.svg?style=for-the-badge&logo=mock service worker&logoColor=white" />
 <br/>
 
