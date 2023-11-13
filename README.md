@@ -2,11 +2,6 @@
 
 ## 🙌 Hello, I'm Wukddang
 
-안녕하세요! 웹 프론트엔드 개발자 우창욱입니다.<br/>
-사용자들과의 밀접한 상호작용을 통해 애플리케이션을 개발해나갈 수 있는 프론트엔드 개발에 흥미가 생겨서 <br/> 23년 3월부터 본격적으로 프론트엔드 공부를 시작해오고 있습니다. <br/>
-프론트엔드로 공부를 시작하고 있지만 정해진 프론트엔드 업무만 하기보다는 웹 개발 전반에 걸친 모든 기술들에 관심이 있습니다.  <br/>
-저는 모든 기술을 익혀가며 웹 개발의 전문가로 성장하고 있습니다.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukdddang&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wukddang)](https://solved.ac/wukkdang)<br/>
@@ -47,8 +42,6 @@
 ### BackEnd Skills
 <img src="https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
 <br/>
 
 <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -72,13 +65,5 @@
 
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-### My Blog
-<a href="https://dddang.vercel.app/" target="_blank" >
-    <img 
-        src="http://img.shields.io/badge/Tech Blog-%23000000.svg?&style=for-the-badge&logo=vercel&link=https://dddang.vercel.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 </div>
