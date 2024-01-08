@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/-NextJs-000000?logo=next.js&logoColor=white&style=plastic" />
+<br/>
 <img src="https://img.shields.io/badge/-vitest-6E9F18?logo=vitest&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/-testing library-E33332?logo=testing-library&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/-mock service worker-FF6A33?logo=mock service worker&logoColor=white&style=plastic" />
