@@ -7,7 +7,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wukddang)](https://solved.ac/wukkdang)<br/>
 </div>
 
-<table>
+<table align="center">
     <!-- Row for Frontend Technologies -->
     <tr>
         <td>
