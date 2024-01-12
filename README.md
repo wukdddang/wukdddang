@@ -38,7 +38,7 @@
         <td>
             <img src="https://img.shields.io/badge/-Nodejs-339933?logo=node.js&logoColor=white&style=plastic" />
             <img src="https://img.shields.io/badge/-MongoDB-47A248.svg?logo=mongodb&logoColor=white&style=plastic" />
-            <img src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=plastic" />
+            <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic" />
         </td>
     </tr>
     <!-- Row for Styling Technologies -->
