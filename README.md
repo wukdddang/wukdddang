@@ -4,8 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukdddang&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wukddang)](https://solved.ac/wukkdang)<br/>
-</div>
 
 <table align="center">
     <!-- Row for Frontend Technologies -->
