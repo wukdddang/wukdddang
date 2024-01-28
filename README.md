@@ -16,9 +16,10 @@
             <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic" />
             <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" />
             <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic" />
-            <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" />
-            <img src="https://img.shields.io/badge/-NextJs-000000?logo=next.js&logoColor=white&style=plastic" />
-            <img src="https://img.shields.io/badge/-Leaflet-199900?logo=leaflet&logoColor=white&style=plastic" />
+            <img src="https://img.shields.io/badge/-React.JS-61DAFB?logo=react&logoColor=white&style=plastic" />
+            <img src="https://img.shields.io/badge/-Leaflet.JS-199900?logo=leaflet&logoColor=white&style=plastic" />
+            <img src="https://img.shields.io/badge/-Next.JS-000000?logo=next.js&logoColor=white&style=plastic" />
+            <img src="https://img.shields.io/badge/-Three.JS-000000?logo=three.js&logoColor=white&style=plastic" />
         </td>
     </tr>
     <!-- Row for Testing Technologies -->
@@ -41,7 +42,7 @@
     <tr>
         <td>Backend</td>
         <td>
-            <img src="https://img.shields.io/badge/-Nodejs-339933?logo=node.js&logoColor=white&style=plastic" />
+            <img src="https://img.shields.io/badge/-Node.JS-339933?logo=node.js&logoColor=white&style=plastic" />
             <img src="https://img.shields.io/badge/-MongoDB-47A248.svg?logo=mongodb&logoColor=white&style=plastic" />
             <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic" />
         </td>
