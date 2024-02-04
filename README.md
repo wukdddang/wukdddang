@@ -44,6 +44,7 @@
         <td>
             <img src="https://img.shields.io/badge/-Node.JS-339933?logo=node.js&logoColor=white&style=plastic" />
             <img src="https://img.shields.io/badge/-MongoDB-47A248.svg?logo=mongodb&logoColor=white&style=plastic" />
+            <img src="https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=plastic" />
             <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic" />
         </td>
     </tr>
