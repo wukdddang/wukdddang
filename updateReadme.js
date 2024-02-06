@@ -7,6 +7,7 @@ const {
   endOfMonth,
 } = require("date-fns");
 
+const readmePath = path.join(__dirname, "README.md");
 // 학습 로그 파일 경로
 const logFilePath = path.join(__dirname, "learning_log.json");
 // 학습 로그 데이터 로드
