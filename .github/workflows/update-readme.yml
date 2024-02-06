@@ -1,0 +1,27 @@
+name: Update README based on learning log
+
+on:
+  push:
+    paths:
+      - "learning_log.json"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: "14"
+      - name: Install dependencies
+        run: npm install
+      - name: Update README
+        run: node updateReadme.js
+      - name: Commit and Push README.md
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Automatically update README with learning log" -a || echo "No changes to commit"
+          git push
