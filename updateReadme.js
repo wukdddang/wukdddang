@@ -56,15 +56,31 @@ function generateCalendar(year, month) {
 }
 
 function updateReadme() {
-  const readmePath = path.join(__dirname, "README.md");
   const today = new Date();
   const year = today.getFullYear();
   const month = today.getMonth() + 1; // getMonth()는 0부터 시작하므로 1을 더해줍니다.
-
   const calendarData = generateCalendar(year, month);
 
   let readmeContent = fs.readFileSync(readmePath, "utf8");
-  readmeContent += "\n\n" + calendarData; // README의 맨 마지막에 달력 추가
+  const startMarker = "<!--CALENDAR-START-->";
+  const endMarker = "<!--CALENDAR-END-->";
+
+  const startMarkerIndex =
+    readmeContent.indexOf(startMarker) + startMarker.length;
+  const endMarkerIndex = readmeContent.indexOf(endMarker);
+
+  if (startMarkerIndex >= 0 && endMarkerIndex >= 0) {
+    // 마커 사이의 내용을 새 달력 데이터로 교체
+    readmeContent =
+      readmeContent.substring(0, startMarkerIndex) +
+      "\n" +
+      calendarData +
+      readmeContent.substring(endMarkerIndex);
+  } else {
+    // 마커가 없는 경우, README 맨 끝에 달력 추가
+    readmeContent +=
+      "\n" + startMarker + "\n" + calendarData + endMarker + "\n";
+  }
 
   fs.writeFileSync(readmePath, readmeContent);
   console.log("README.md has been updated with the calendar");
