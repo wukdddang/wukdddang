@@ -25,3 +25,5 @@ jobs:
           git add README.md
           git commit -m "Automatically update README with learning log" -a || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
