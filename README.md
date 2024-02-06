@@ -1,5 +1,14 @@
 <div align="center">
 
+
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     | | | |
+| | Studied GitHub Actions!| Learned about Node.js streams| Explored date-fns library| | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | |<div align="center">
+
 ## 🙌 Hello, I'm Wukddang
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukdddang&show_icons=true&theme=radical)
