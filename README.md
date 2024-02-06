@@ -1,18 +1,8 @@
 <div align="center">
 
-
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
-| --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     | | | |
-| | Studied GitHub Actions!| Learned about Node.js streams| Explored date-fns library| | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | |<div align="center">
-
 ## 🙌 Hello, I'm Wukddang
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukdddang&show_icons=true&theme=radical)
-
 
 <table align="center">
     <!-- Row for Frontend Technologies -->
@@ -67,16 +57,12 @@
     </tr>
 </table>
 
-
-
-
 ## 2024/02
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     | 1 | 2 | 3 |
-| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 |
-
+|     |     |     |     | 1   | 2   | 3   |
+| 4   | 5   | 6   | 7   | 8   | 9   | 10  |
+| 11  | 12  | 13  | 14  | 15  | 16  | 17  |
+| 18  | 19  | 20  | 21  | 22  | 23  | 24  |
+| 25  | 26  | 27  | 28  | 29  |

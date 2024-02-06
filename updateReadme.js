@@ -5,12 +5,11 @@ const {
   eachDayOfInterval,
   startOfMonth,
   endOfMonth,
-  addMonths,
-  subMonths,
 } = require("date-fns");
 
-const readmePath = path.join(__dirname, "README.md");
+// 학습 로그 파일 경로
 const logFilePath = path.join(__dirname, "learning_log.json");
+// 학습 로그 데이터 로드
 const learningLog = JSON.parse(fs.readFileSync(logFilePath, "utf8"));
 
 function generateCalendar(year, month) {
@@ -25,17 +24,23 @@ function generateCalendar(year, month) {
   calendarString += "| Sun | Mon | Tue | Wed | Thu | Fri | Sat |\n";
   calendarString += "| --- | --- | --- | --- | --- | --- | --- |\n";
   let weekString = "|";
+  let dayOfWeekCounter = 0;
 
   // 달력 시작 요일까지 공백으로 채우기
   for (let i = 0; i < firstDayOfMonth.getDay(); i++) {
     weekString += "     |";
+    dayOfWeekCounter++;
   }
 
   daysOfTheMonth.forEach((day) => {
-    const dayOfMonth = format(day, "d");
-    weekString += ` ${dayOfMonth} |`;
+    const formattedDate = format(day, "yyyy-MM-dd");
+    const logEntry = learningLog[formattedDate]
+      ? ` ${learningLog[formattedDate]}`
+      : "";
+    weekString += ` ${format(day, "d")}${logEntry} |`;
 
-    if (day.getDay() === 6) {
+    dayOfWeekCounter++;
+    if (dayOfWeekCounter % 7 === 0) {
       // 토요일이면 줄바꿈
       calendarString += `${weekString}\n`;
       weekString = "|";
@@ -43,7 +48,7 @@ function generateCalendar(year, month) {
   });
 
   // 마지막 주가 토요일로 끝나지 않는 경우 줄을 마무리
-  if (lastDayOfMonth.getDay() !== 6) {
+  if (dayOfWeekCounter % 7 !== 0) {
     calendarString += weekString;
   }
 
@@ -51,6 +56,7 @@ function generateCalendar(year, month) {
 }
 
 function updateReadme() {
+  const readmePath = path.join(__dirname, "README.md");
   const today = new Date();
   const year = today.getFullYear();
   const month = today.getMonth() + 1; // getMonth()는 0부터 시작하므로 1을 더해줍니다.
