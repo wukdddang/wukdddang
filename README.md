@@ -63,7 +63,7 @@
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     | 1 | 2 | 3 |
-| 4 | 5 Studied GitHub Actions~! | 6 Learned about Node.js streams | 7 Explored date-fns library | 8 | 9 | 10 |
+| 4 | 5 | 6 | 7 SQLD: 서브 쿼리 / 그룹 함수 / 윈도우 함수 / DCL / PL-SQL | 8 | 9 | 10 |
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 |
