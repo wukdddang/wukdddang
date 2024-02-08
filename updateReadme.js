@@ -13,6 +13,7 @@ const logFilePath = path.join(__dirname, "learning_log.json");
 // 학습 로그 데이터 로드
 const learningLog = JSON.parse(fs.readFileSync(logFilePath, "utf8"));
 
+// TODO: 달력 날짜 텍스트를 두껍게 표시하는 방법을 찾아 적용하기.
 function generateCalendar(year, month) {
   const firstDayOfMonth = startOfMonth(new Date(year, month - 1));
   const lastDayOfMonth = endOfMonth(firstDayOfMonth);
@@ -38,7 +39,8 @@ function generateCalendar(year, month) {
     const logEntry = learningLog[formattedDate]
       ? ` ${learningLog[formattedDate]}`
       : "";
-    weekString += ` ${format(day, "d")}${logEntry} |`;
+    // 날짜를 볼드체로 표시
+    weekString += ` **${format(day, "d")}**${logEntry} |`;
 
     dayOfWeekCounter++;
     if (dayOfWeekCounter % 7 === 0) {
