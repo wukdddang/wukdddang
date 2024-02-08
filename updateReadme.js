@@ -36,11 +36,20 @@ function generateCalendar(year, month) {
 
   daysOfTheMonth.forEach((day) => {
     const formattedDate = format(day, "yyyy-MM-dd");
+    // 해당 날짜에 학습 로그가 있는지 확인
     const logEntry = learningLog[formattedDate]
-      ? ` ${learningLog[formattedDate]}`
+      ? learningLog[formattedDate]
       : "";
-    // 날짜를 볼드체로 표시
-    weekString += ` **${format(day, "d")}**${logEntry} |`;
+    // 날짜와 함께 학습 로그가 있으면 토글 기능을 추가
+    if (logEntry) {
+      weekString += ` <details><summary>**${format(
+        day,
+        "d"
+      )}**</summary>${logEntry}</details> |`;
+    } else {
+      // 학습 로그가 없는 날짜는 볼드체로 날짜만 표시
+      weekString += ` **${format(day, "d")}** |`;
+    }
 
     dayOfWeekCounter++;
     if (dayOfWeekCounter % 7 === 0) {
