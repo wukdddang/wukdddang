@@ -63,7 +63,7 @@
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     | **1** | **2** | **3** |
-| **4** | **5** | <details><summary>**6**</summary>SQLD: 서브 쿼리 / 그룹 함수 / 윈도우 함수 / DCL / PL-SQL</details> | <details><summary>**7**</summary>SQLD: 문제 풀이, 1~11</details> | <details><summary>**8**</summary>SQLD: 문제 풀이, 12~25</details> | **9** | **10** |
+| **4** | **5** | <details><summary>**6**</summary>SQLD: 서브 쿼리 / 그룹 함수 / 윈도우 함수 / DCL / PL-SQL</details> | <details><summary>**7**</summary>SQLD: 문제 풀이, 1~11</details> | <details><summary>**8**</summary>SQLD: 문제 풀이, 12~25</details> | <details><summary>**9**</summary>SQLD: SQL 자격검정 실전문제, 1 ~ 13</details> | **10** |
 | **11** | **12** | **13** | **14** | **15** | **16** | **17** |
 | **18** | **19** | **20** | **21** | **22** | **23** | **24** |
 | **25** | **26** | **27** | **28** | **29** |
