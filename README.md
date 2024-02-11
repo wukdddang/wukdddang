@@ -64,7 +64,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     | **1** | **2** | **3** |
 | **4** | **5** | <details><summary>**6**</summary>SQLD: 서브 쿼리 / 그룹 함수 / 윈도우 함수 / DCL / PL-SQL</details> | <details><summary>**7**</summary>SQLD: 문제 풀이, 1~11</details> | <details><summary>**8**</summary>SQLD: 문제 풀이, 12~25</details> | <details><summary>**9**</summary>SQLD: SQL 자격검정 실전문제 / 1-1. 데이터 모델링의 이해 1 ~ 13</details> | <details><summary>**10**</summary>SQLD: SQL 자격검정 실전문제 / 1-2. 데이터 모델링의 이해 14 ~ 50 + 2-1. SQL 기본 1 ~ 12</details> |
-| **11** | **12** | **13** | **14** | **15** | **16** | **17** |
+| <details><summary>**11**</summary>SQLD: SQL 자격검정 실전문제 / 2-2. SQL 기본 13 ~ 40 / TS: Udemy 강의 챕터 1 / React: 딥다이브 p.1-8</details> | **12** | **13** | **14** | **15** | **16** | **17** |
 | **18** | **19** | **20** | **21** | **22** | **23** | **24** |
 | **25** | **26** | **27** | **28** | **29** |
 
