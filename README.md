@@ -65,7 +65,7 @@
 |     |     |     |     | **1** | **2** | **3** |
 | **4** | **5** | <details><summary>**6**</summary>SQLD: 서브 쿼리 / 그룹 함수 / 윈도우 함수 / DCL / PL-SQL</details> | <details><summary>**7**</summary>SQLD: 문제 풀이, 1~11</details> | <details><summary>**8**</summary>SQLD: 문제 풀이, 12~25</details> | <details><summary>**9**</summary>SQLD: SQL 자격검정 실전문제 / 1-1. 데이터 모델링의 이해 1~13</details> | <details><summary>**10**</summary>SQLD: SQL 자격검정 실전문제 / 1-2. 데이터 모델링의 이해 14~50 + 2-1. SQL 기본 1~12</details> |
 | <details><summary>**11**</summary>SQLD: SQL 자격검정 실전문제 / 2-1. SQL 기본 13~40 / TS: Udemy 강의 챕터 1 완강 / React: 딥다이브 p.1-8</details> | <details><summary>**12**</summary>SQLD: SQL 자격검정 실전문제 / 2-1. SQL 기본 41~50 + 2-2. SQL 활용 51~62 / React: 딥다이브 p.9-14</details> | <details><summary>**13**</summary>SQLD: SQL 자격검정 실전문제 / 2-2. SQL 활용 63~73 / TS: Udemy 강의 챕터 3 완강 /React: 딥다이브 p.15-20</details> | <details><summary>**14**</summary>SQLD: SQL 자격검정 실전문제 / 2-2. SQL 활용 74~83 / React: 딥다이브 p.21-26</details> | <details><summary>**15**</summary>SQLD: SQL 자격검정 실전문제 / 2-2. SQL 활용 84~98 / MSA: Udemy 강의 5강 / React: 딥다이브 p.27-32</details> | <details><summary>**16**</summary>SQLD: SQL 자격검정 실전문제 / 2-3. SQL 관리 구문 99~112 / MSA: Udemy 강의 6강 / React: 딥다이브 p.33-38</details> | <details><summary>**17**</summary>SQLD: SQL 자격검정 실전문제 / 2-3. SQL 관리 구문 113~126 + 3-1. SQL 수행 구조 1~5 / React: 딥다이브 p.39-44</details> |
-| **18** | **19** | **20** | **21** | **22** | **23** | **24** |
+| <details><summary>**18**</summary>React: 딥다이브 p.45-50 / MSA: Udemy 강의 7-11강</details> | **19** | **20** | **21** | **22** | **23** | **24** |
 | **25** | **26** | **27** | **28** | **29** |
 
 <!--CALENDAR-END-->
