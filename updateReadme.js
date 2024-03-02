@@ -5,13 +5,35 @@ const {
   eachDayOfInterval,
   startOfMonth,
   endOfMonth,
-  parse,
 } = require("date-fns");
 
 const readmePath = path.join(__dirname, "README.md");
-const logsDirPath = path.join(__dirname, "logs");
+const logsDirPath = path.join(__dirname, "logs"); // logs 폴더 경로 설정
 
-function generateCalendarForMonth(year, month) {
+// logs 폴더가 없는 경우 생성
+if (!fs.existsSync(logsDirPath)) {
+  fs.mkdirSync(logsDirPath);
+}
+
+const today = new Date();
+const year = today.getFullYear();
+const month = today.getMonth() + 1; // getMonth()는 0부터 시작하므로 1을 더해줍니다.
+const logFileName = `${year}_${String(month).padStart(
+  2,
+  "0"
+)}_learning_log.json`; // 파일명 형식: YYYY_MM_learning_log.json
+const logFilePath = path.join(logsDirPath, logFileName); // logs 폴더 내 파일 경로
+
+// 학습 로그 데이터 로드, 파일이 없을 경우 빈 객체 사용
+let learningLog = {};
+if (fs.existsSync(logFilePath)) {
+  learningLog = JSON.parse(fs.readFileSync(logFilePath, "utf8"));
+} else {
+  console.log(`${logFileName} not found, creating a new one.`);
+  fs.writeFileSync(logFilePath, JSON.stringify({}));
+}
+
+function generateCalendar(year, month) {
   const firstDayOfMonth = startOfMonth(new Date(year, month - 1));
   const lastDayOfMonth = endOfMonth(firstDayOfMonth);
   const daysOfTheMonth = eachDayOfInterval({
@@ -19,7 +41,8 @@ function generateCalendarForMonth(year, month) {
     end: lastDayOfMonth,
   });
 
-  let calendarString = "| Sun | Mon | Tue | Wed | Thu | Fri | Sat |\n";
+  let calendarString = `## ${format(firstDayOfMonth, "yyyy/MM")}\n\n`;
+  calendarString += "| Sun | Mon | Tue | Wed | Thu | Fri | Sat |\n";
   calendarString += "| --- | --- | --- | --- | --- | --- | --- |\n";
   let weekString = "|";
   let dayOfWeekCounter = 0;
@@ -30,7 +53,18 @@ function generateCalendarForMonth(year, month) {
   }
 
   daysOfTheMonth.forEach((day) => {
-    weekString += ` ${format(day, "d")} |`;
+    const formattedDate = format(day, "yyyy-MM-dd");
+    const logEntry = learningLog[formattedDate]
+      ? learningLog[formattedDate]
+      : "";
+    if (logEntry) {
+      weekString += ` <details><summary>**${format(
+        day,
+        "d"
+      )}**</summary>${logEntry}</details> |`;
+    } else {
+      weekString += ` **${format(day, "d")}** |`;
+    }
 
     dayOfWeekCounter++;
     if (dayOfWeekCounter % 7 === 0) {
@@ -40,48 +74,18 @@ function generateCalendarForMonth(year, month) {
   });
 
   if (dayOfWeekCounter % 7 !== 0) {
-    calendarString += weekString.padEnd(7 * 6, "     |") + "\n";
+    calendarString += weekString;
   }
 
-  return calendarString;
-}
-
-function generateYearMonthToggles() {
-  const files = fs.readdirSync(logsDirPath);
-  const yearMonthMap = {};
-
-  files.forEach((file) => {
-    const [year, month] = file.split("_");
-    if (!yearMonthMap[year]) {
-      yearMonthMap[year] = new Set();
-    }
-    yearMonthMap[year].add(parseInt(month.split("_")[0], 10)); // 월 정보 추가
-  });
-
-  let readmeContent = "";
-  Object.keys(yearMonthMap)
-    .sort()
-    .forEach((year) => {
-      readmeContent += `<details><summary>${year}</summary>\n\n`;
-      Array.from(yearMonthMap[year])
-        .sort((a, b) => a - b)
-        .forEach((month) => {
-          readmeContent += `<details><summary>${month}월</summary>\n\n`;
-          readmeContent += generateCalendarForMonth(year, month);
-          readmeContent += `</details>\n\n`;
-        });
-      readmeContent += `</details>\n\n`;
-    });
-
-  return readmeContent;
+  return calendarString + "\n\n";
 }
 
 function updateReadme() {
-  const yearMonthToggles = generateYearMonthToggles();
+  const calendarData = generateCalendar(year, month);
 
   let readmeContent = fs.readFileSync(readmePath, "utf8");
-  const startMarker = "<!--YEAR_MONTH_TOGGLE_START-->";
-  const endMarker = "<!--YEAR_MONTH_TOGGLE_END-->";
+  const startMarker = "<!--CALENDAR-START-->";
+  const endMarker = "<!--CALENDAR-END-->";
 
   const startMarkerIndex =
     readmeContent.indexOf(startMarker) + startMarker.length;
@@ -91,14 +95,15 @@ function updateReadme() {
     readmeContent =
       readmeContent.substring(0, startMarkerIndex) +
       "\n" +
-      yearMonthToggles +
+      calendarData +
       readmeContent.substring(endMarkerIndex);
   } else {
-    console.error("Markers not found in README.md. Please add markers.");
+    readmeContent +=
+      "\n" + startMarker + "\n" + calendarData + endMarker + "\n";
   }
 
   fs.writeFileSync(readmePath, readmeContent);
-  console.log("README.md has been updated with year and month toggles.");
+  console.log("README.md has been updated with the calendar");
 }
 
 updateReadme();
