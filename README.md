@@ -64,7 +64,7 @@
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |     | <details><summary>**1**</summary>React: 딥다이브 p.109-115 / BE: 백엔드 30일 완성 p.55-59 / 패캠 MFA: 9강</details> | <details><summary>**2**</summary>React: 딥다이브 p.116-119 / BE: 백엔드 30일 완성 p.61-68</details> |
-| <details><summary>**3**</summary>React: 딥다이브 p.120-124 / BE: 백엔드 30일 완성 p.69-72 / 패캠 MFA: 10-12강 / TS: Udemy 강의 챕터 5-6 완강</details> | <details><summary>**4**</summary>React: 딥다이브 p.125-130 / BE: 백엔드 30일 완성 p.73-78 / 패캠 MFA: 13-15강 / TS: Udemy 강의 챕터 7 완강</details> | **5** | **6** | **7** | **8** | **9** |
+| <details><summary>**3**</summary>React: 딥다이브 p.120-124 / BE: 백엔드 30일 완성 p.69-72 / 패캠 MFA: 10-12강 / TS: Udemy 강의 챕터 5-6 완강</details> | <details><summary>**4**</summary>React: 딥다이브 p.125-130 / BE: 백엔드 30일 완성 p.73-78 / 패캠 MFA: 13-15강 / TS: Udemy 강의 챕터 7 완강 / Cypress: Udemy 강의 2강</details> | **5** | **6** | **7** | **8** | **9** |
 | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
 | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
