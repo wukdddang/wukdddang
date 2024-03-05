@@ -33,6 +33,7 @@
         <td>Testing</td>
         <td>
             <img src="https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white&style=plastic" />
+            <img src="https://img.shields.io/badge/-Cypress-69D3A7?logo=cypress&logoColor=white&style=plastic" />
             <img src="https://img.shields.io/badge/-React Testing library-E33332?logo=testing-library&logoColor=white&style=plastic" />
             <img src="https://img.shields.io/badge/-Mock Service Worker-FF6A33?logo=mock service worker&logoColor=white&style=plastic" />
         </td>
