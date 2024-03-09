@@ -26,7 +26,7 @@
         <td>Styling</td>
         <td>
             <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=plastic" />
-            <img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=plastic" />
+<!--             <img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=plastic" /> -->
         </td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@
     <tr>
         <td>Design</td>
         <td>
-            <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=plastic" />
+<!--             <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=plastic" /> -->
             <img src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=plastic" />
         </td>
     </tr>
