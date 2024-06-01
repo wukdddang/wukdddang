@@ -1,11 +1,11 @@
 <div align="center">
 
-## 🙌 Hello, I'm Wukddang
+## 🙌 Hello, I'm Wukddang.
 
 <div align="left">
   
   Current Project: [LUMIR SARDIP](https://sardip.lumir.space)
-  
+  Currently Interested In: Next.js, Blockchain, Web Security
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukdddang&show_icons=true&theme=radical)
