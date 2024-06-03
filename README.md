@@ -4,8 +4,8 @@
 
 <div align="left">
   
-  Current Project: [LUMIR SARDIP](https://sardip.lumir.space)
-  Currently Interested In: Next.js, Blockchain, Web Security
+  Current Project: [LUMIR SARDIP](https://sardip.lumir.space) <br />
+  Currently Interested In: Next.js, turbo + monorepo, Blockchain, Web Security
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wukdddang&show_icons=true&theme=radical)
