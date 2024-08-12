@@ -17,7 +17,7 @@
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     | **1** | **2** | **3** |
-| **4** | **5** | **6** | <details><summary>**7**</summary>NestJS: 코드팩토리 강의 섹션 7-8 수강</details> | <details><summary>**8**</summary>NestJS: 코드팩토리 강의 섹션 9 수강</details> | **9** | **10** |
+| **4** | **5** | **6** | <details><summary>**7**</summary>NestJS: 코드팩토리 강의 섹션 7-8 수강</details> | <details><summary>**8**</summary>NestJS: 코드팩토리 강의 섹션 9 수강</details> | <details><summary>**9**</summary>NestJS: 코드팩토리 강의 섹션 10 수강</details> | **10** |
 | **11** | **12** | **13** | **14** | **15** | **16** | **17** |
 | **18** | **19** | **20** | **21** | **22** | **23** | **24** |
 | **25** | **26** | **27** | **28** | **29** | **30** | **31** |
