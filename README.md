@@ -16,7 +16,7 @@
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| <details><summary>**1**</summary>NestJS: 코드팩토리 강의 섹션 29~34 수강</details> | <details><summary>**2**</summary>NestJS: 코드팩토리 강의 섹션 35-1 수강</details> | **3** | <details><summary>**4**</summary>NestJS: 코드팩토리 강의 섹션 35, 36-1 수강</details> | <details><summary>**5**</summary>NextJS: SSR + CSR 전략 글 작성</details> | **6** | **7** |
+| <details><summary>**1**</summary>NestJS: 코드팩토리 강의 섹션 29~34 수강</details> | <details><summary>**2**</summary>NestJS: 코드팩토리 강의 섹션 35-1 수강</details> | **3** | <details><summary>**4**</summary>NestJS: 코드팩토리 강의 섹션 35, 36-1 수강</details> | <details><summary>**5**</summary>NextJS: SSR + CSR 전략 글 작성</details> | **6** | <details><summary>**7**</summary>NestJS: 코드팩토리 강의 섹션 36 수강</details> |
 | **8** | **9** | **10** | **11** | **12** | **13** | **14** |
 | **15** | **16** | **17** | **18** | **19** | **20** | **21** |
 | **22** | **23** | **24** | **25** | **26** | **27** | **28** |
