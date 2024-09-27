@@ -7,7 +7,11 @@
   Current Project
   - [LUMIR SARDIP](https://sardip.lumir.space) (Now Refactoring) <br />
   - [LUMIR LRIM](https://app.lumir.space) (Now Renewaling) <br/>
-  Currently Interested In: Next.js, Clean Architecture, Nest.js
+  
+  Currently Interested In
+  - Next.js
+  - Clean Architecture
+  - Nest.js
 
 ## 🛠 Tech Stack
 
