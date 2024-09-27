@@ -5,8 +5,8 @@
 <div align="left">
   
   Current Project
-  - [LUMIR SARDIP](https://sardip.lumir.space) <br />
-  - [LUMIR LRIM](https://app.lumir.space) <br/>
+  - [LUMIR SARDIP](https://sardip.lumir.space) (Now Refactoring) <br />
+  - [LUMIR LRIM](https://app.lumir.space) (Now Renewaling) <br/>
   Currently Interested In: Next.js, Clean Architecture, Nest.js
 </div>
 
