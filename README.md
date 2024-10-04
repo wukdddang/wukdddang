@@ -6,7 +6,7 @@
   
   Current Project
   - [LUMIR SARDIP](https://sardip.lumir.space) (Now Refactoring) <br />
-  - [LUMIR LRIM](https://app.lumir.space) (Now Renewaling) <br/>
+  - [LUMIR LRIM](https://app.lumir.space/lrim/apply) (Now Renewaling) <br/>
   
   Currently Interested In
   - Next.js
