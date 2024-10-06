@@ -39,8 +39,8 @@
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-|     |     | <details><summary>**1**</summary>NextJS: 사내 프로젝트 풀스택 개발중</details> | <details><summary>**2**</summary>NextJS: 사내 프로젝트 풀스택 개발중</details> | **3** | **4** | **5** |
-| **6** | **7** | **8** | **9** | **10** | **11** | **12** |
+|     |     | <details><summary>**1**</summary>NextJS: 사내 프로젝트 풀스택 개발중</details> | <details><summary>**2**</summary>NextJS: 사내 프로젝트 풀스택 개발중</details> | <details><summary>**3**</summary>NestJS: 개인 사이드 프로젝트 연습중</details> | <details><summary>**4**</summary>NestJS: 개인 사이드 프로젝트 연습중</details> | <details><summary>**5**</summary>NestJS: 개인 사이드 프로젝트 연습중</details> |
+| <details><summary>**6**</summary>NestJS: 개인 사이드 프로젝트 연습중</details> | **7** | **8** | **9** | **10** | **11** | **12** |
 | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
 | **20** | **21** | **22** | **23** | **24** | **25** | **26** |
 | **27** | **28** | **29** | **30** | **31** |
