@@ -10,7 +10,7 @@
   - LUMIR INTERNAL DESIGN SYSTEM (Now Developing)
   
   Currently Interested In
-  - Next.js
+  - Next.js!
   - Clean Architecture
   - Nest.js
 
