@@ -44,7 +44,7 @@
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |     | **1** | <details><summary>**2**</summary>Project: 책 오탈자 제보 플랫폼 개발중</details> |
-| <details><summary>**3**</summary>SQLD: 노랭이 연습중, Project: 책 오탈자 제보 플랫폼 개발중</details> | <details><summary>**4**</summary>SQLD: 노랭이 연습중, Project: 책 오탈자 제보 플랫폼 개발중</details> | **5** | **6** | **7** | **8** | **9** |
+| <details><summary>**3**</summary>SQLD: 노랭이 연습중, Project: 책 오탈자 제보 플랫폼 개발중</details> | <details><summary>**4**</summary>SQLD: 노랭이 연습중, Project: 책 오탈자 제보 플랫폼 개발중</details> | <details><summary>**5**</summary>SQLD: 노랭이 연습중, Project: 책 오탈자 제보 플랫폼 개발중</details> | <details><summary>**6**</summary>SQLD: 노랭이 연습중, Project: 책 오탈자 제보 플랫폼 개발중</details> | **7** | **8** | **9** |
 | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
 | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
