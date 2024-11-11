@@ -12,6 +12,7 @@
   
   Currently Interested In
   - Next.js
+  - Unit Testing + E2E Testing
   - Clean Architecture
   - Nest.js
 
