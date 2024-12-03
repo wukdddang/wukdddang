@@ -7,7 +7,6 @@
   Current Project
   - [LUMIR SARDIP](https://sardip.lumir.space) (Now Renewaling) <br />
   - [LUMIR LRIM](https://app.lumir.space/lrim/apply) (Now Renewaling) <br/>
-  - LUMIR INTERNAL DESIGN SYSTEM (Now Developing) <br />
   - [책잡](https://book-type-error.vercel.app) (Now Developing) 
   
   Currently Interested In
