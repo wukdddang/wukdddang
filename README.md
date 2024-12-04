@@ -44,7 +44,7 @@
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| <details><summary>**1**</summary>Project: 책 오탈자 제보 + 리뷰 작성 플랫폼 개발중</details> | <details><summary>**2**</summary>AWS: DVA-C02 과정 섹션 5-6 수강,Project: 책 오탈자 제보 + 리뷰 작성 플랫폼 개발중</details> | **3** | **4** | **5** | **6** | **7** |
+| <details><summary>**1**</summary>Project: 책 오탈자 제보 + 리뷰 작성 플랫폼 개발중</details> | <details><summary>**2**</summary>AWS: DVA-C02 과정 섹션 5-6 수강, Project: 책 오탈자 제보 + 리뷰 작성 플랫폼 개발중</details> | <details><summary>**3**</summary>Project: 책 오탈자 제보 + 리뷰 작성 플랫폼 개발중</details> | <details><summary>**4**</summary>AWS: DVA-C02 과정 섹션 7-11 수강, Project: 책 오탈자 제보 + 리뷰 작성 플랫폼 개발중</details> | **5** | **6** | **7** |
 | **8** | **9** | **10** | **11** | **12** | **13** | **14** |
 | **15** | **16** | **17** | **18** | **19** | **20** | **21** |
 | **22** | **23** | **24** | **25** | **26** | **27** | **28** |
