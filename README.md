@@ -6,7 +6,7 @@
   
   Current Project
   - [LUMIR SARDIP](https://sardip.lumir.space) (Now Renewaling) <br />
-  - [LUMIR LRIM](https://app.lumir.space/lrim/apply) (Now Renewaling) <br/>
+  - LUMIR 채용, 인사평가 시스템 (Now Developing) <br/>
   - [책잡](https://book-type-error.vercel.app) (Now Developing) 
   
   Currently Interested In
@@ -14,6 +14,7 @@
   - Unit / E2E Testing
   - Clean Architecture
   - Nest.js
+  - Design System
 
 ## 🛠 Tech Stack
 
