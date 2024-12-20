@@ -10,10 +10,10 @@
   - [책잡](https://book-type-error.vercel.app) (Now Developing) 
   
   Currently Interested In
-  - Next.js
-  - Unit / E2E Testing
+  - Next.js / Nest.js
+  - Testing (Unit, Integration, E2E)
   - Clean Architecture
-  - Nest.js
+  - Network & AWS
   - Design System
 
 ## 🛠 Tech Stack
