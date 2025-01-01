@@ -17,12 +17,16 @@ if (!fs.existsSync(logsDirPath)) {
 
 const today = new Date();
 const year = today.getFullYear();
-const month = today.getMonth() + 1; // getMonth()는 0부터 시작하므로 1을 더해줍니다.
-const logFileName = `${year}_${String(month).padStart(
-  2,
-  "0"
-)}_learning_log.json`; // 파일명 형식: YYYY_MM_learning_log.json
-const logFilePath = path.join(logsDirPath, logFileName); // logs 폴더 내 파일 경로
+const month = today.getMonth() + 1;
+
+// 연도별 폴더 경로
+const yearDirPath = path.join(logsDirPath, year.toString());
+if (!fs.existsSync(yearDirPath)) {
+  fs.mkdirSync(yearDirPath);
+}
+
+const logFileName = `${String(month).padStart(2, "0")}_learning_log.json`;
+const logFilePath = path.join(yearDirPath, logFileName);
 
 // 학습 로그 데이터 로드, 파일이 없을 경우 빈 객체 사용
 let learningLog = {};
