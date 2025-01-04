@@ -2,7 +2,7 @@ name: Update README
 on:
   push:
     paths:
-      - "logs/20**/*_learning.json" # logs/2024/, logs/2025/ 등의 폴더 내 *_learning.json 파일 변경 감지
+      - "logs/**/*_learning_log.json" # 패턴 수정: _learning.json -> _learning_log.json
 jobs:
   update-readme:
     runs-on: ubuntu-latest
