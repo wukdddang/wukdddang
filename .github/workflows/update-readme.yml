@@ -1,34 +1,27 @@
 name: Update README
-
 on:
   push:
     paths:
-      - "logs/*.json" # logs 폴더 내 모든 JSON 파일 변경 사항 감지
-
+      - "logs/20**/*_learning.json" # logs/2024/, logs/2025/ 등의 폴더 내 *_learning.json 파일 변경 감지
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
         with:
-          persist-credentials: false # 기본 credentials 사용을 비활성화
-
+          persist-credentials: false
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
           node-version: "18"
-
       - name: Install dependencies
         run: npm install
-
       - name: Update README
         run: node updateReadme.js
-
       - name: Configure Git
         run: |
           git config --global user.email "dnr8874@naver.com"
           git config --global user.name "wukdddang"
-
       - name: Commit and Push changes
         run: |
           git add README.md
