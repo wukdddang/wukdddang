@@ -33,6 +33,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 <br />
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-0F0F11?style=for-the-badge&logo=angular&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 
 </div>
