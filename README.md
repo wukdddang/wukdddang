@@ -50,7 +50,7 @@
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     | <details><summary>**1**</summary>정보처리기사: 1.소프트웨어 설계-17 수강, Project: 채용관리 플랫폼 디자인 시스템 구축중</details> | <details><summary>**2**</summary>Project: 채용관리 플랫폼 개발중</details> | <details><summary>**3**</summary>정보처리기사: 1.소프트웨어 설계-18~20 수강, Project: 채용관리 플랫폼 개발중</details> | <details><summary>**4**</summary>정보처리기사: 1.소프트웨어 설계-21~23 수강</details> |
-| <details><summary>**5**</summary>정보처리기사: 1.소프트웨어 설계-24~26 수강, Project: 책 오탈자 제보 + 리뷰 작성 플랫폼 개발중</details> | **6** | **7** | **8** | **9** | **10** | **11** |
+| <details><summary>**5**</summary>정보처리기사: 1.소프트웨어 설계-24~26 수강, Angular: 구조 학습중</details> | <details><summary>**6**</summary>정보처리기사: 1.소프트웨어 설계-27 수강</details> | <details><summary>**7**</summary>RAG: 개념 학습</details> | <details><summary>**8**</summary>RAG: 개념 학습 + 구현</details> | <details><summary>**9**</summary>RAG: 개념 학습 + 구현</details> | <details><summary>**10**</summary>RAG: 디자인 시스템 전용 챗봇 개발중</details> | **11** |
 | **12** | **13** | **14** | **15** | **16** | **17** | **18** |
 | **19** | **20** | **21** | **22** | **23** | **24** | **25** |
 | **26** | **27** | **28** | **29** | **30** | **31** |
