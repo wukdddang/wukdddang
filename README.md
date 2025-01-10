@@ -11,10 +11,11 @@
   
   Currently Interested In
   - Next.js / Nest.js
+  - LLM & RAG
+  - Design System
+  - Network & AWS
   - Testing (Unit, Integration, E2E)
   - Clean Architecture
-  - Network & AWS
-  - Design System
 
 ## 🛠 Tech Stack
 
