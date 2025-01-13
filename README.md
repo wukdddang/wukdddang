@@ -51,7 +51,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     | <details><summary>**1**</summary>정보처리기사: 1.소프트웨어 설계-17 수강, Project: 채용관리 플랫폼 디자인 시스템 구축중</details> | <details><summary>**2**</summary>Project: 채용관리 플랫폼 개발중</details> | <details><summary>**3**</summary>정보처리기사: 1.소프트웨어 설계-18~20 수강, Project: 채용관리 플랫폼 개발중</details> | <details><summary>**4**</summary>정보처리기사: 1.소프트웨어 설계-21~23 수강</details> |
 | <details><summary>**5**</summary>정보처리기사: 1.소프트웨어 설계-24~26 수강, Angular: 구조 학습중</details> | <details><summary>**6**</summary>정보처리기사: 1.소프트웨어 설계-27 수강</details> | <details><summary>**7**</summary>RAG: 개념 학습</details> | <details><summary>**8**</summary>RAG: 개념 학습 + 구현</details> | <details><summary>**9**</summary>RAG: 개념 학습 + 구현</details> | <details><summary>**10**</summary>정보처리기사: 1.소프트웨어 설계-28 수강, RAG: 디자인 시스템 전용 챗봇 개발중</details> | <details><summary>**11**</summary>정보처리기사: 1.소프트웨어 설계-29 수강</details> |
-| <details><summary>**12**</summary>정보처리기사: 1.소프트웨어 설계-30 수강 + Personal: 개인 프로젝트 정리</details> | **13** | **14** | **15** | **16** | **17** | **18** |
+| <details><summary>**12**</summary>정보처리기사: 1.소프트웨어 설계-30 수강 + Personal: 개인 프로젝트 정리</details> | <details><summary>**13**</summary>정보처리기사: 1.소프트웨어 설계-31 수강 + MFA: Module Federation 학습중</details> | **14** | **15** | **16** | **17** | **18** |
 | **19** | **20** | **21** | **22** | **23** | **24** | **25** |
 | **26** | **27** | **28** | **29** | **30** | **31** |
 
