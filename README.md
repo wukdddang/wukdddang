@@ -10,12 +10,13 @@
   - [책잡](https://book-type-error.vercel.app) (Now Developing) 
   
   Currently Interested In
-  - Next.js / Nest.js
-  - LLM & RAG
+  - Testing (Unit, Integration, E2E)
+  - Module Federation / MFA
   - Design System
   - Network & AWS
-  - Testing (Unit, Integration, E2E)
   - Clean Architecture
+  - Next.js / Nest.js
+  - LLM & RAG
 
 ## 🛠 Tech Stack
 
