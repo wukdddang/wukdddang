@@ -11,12 +11,7 @@
   
   Currently Interested In
   - Testing (Unit, Integration, E2E)
-  - Module Federation / MFA
-  - Design System
   - Network & AWS
-  - Clean Architecture
-  - Next.js / Nest.js
-  - LLM & RAG
 
 ## 🛠 Tech Stack
 
