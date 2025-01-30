@@ -10,8 +10,8 @@
   - [책잡](https://book-type-error.vercel.app) (Now Developing) 
   
   Currently Interested In
-  - Testing (Unit, Integration, E2E)
-  - Network & AWS
+  - Testing (E2E)
+  - Fullstack
 
 ## 🛠 Tech Stack
 
