@@ -45,14 +45,14 @@
 
 
 <!--CALENDAR-START-->
-## 2025/01
+## 2025/02
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     | <details><summary>**1**</summary>정보처리기사: 1.소프트웨어 설계-17 수강, Project: 채용관리 플랫폼 디자인 시스템 구축중</details> | <details><summary>**2**</summary>Project: 채용관리 플랫폼 개발중</details> | <details><summary>**3**</summary>정보처리기사: 1.소프트웨어 설계-18~20 수강, Project: 채용관리 플랫폼 개발중</details> | <details><summary>**4**</summary>정보처리기사: 1.소프트웨어 설계-21~23 수강</details> |
-| <details><summary>**5**</summary>정보처리기사: 1.소프트웨어 설계-24~26 수강, Angular: 구조 학습중</details> | <details><summary>**6**</summary>정보처리기사: 1.소프트웨어 설계-27 수강</details> | <details><summary>**7**</summary>RAG: 개념 학습</details> | <details><summary>**8**</summary>RAG: 개념 학습 + 구현</details> | <details><summary>**9**</summary>RAG: 개념 학습 + 구현</details> | <details><summary>**10**</summary>정보처리기사: 1.소프트웨어 설계-28 수강, RAG: 디자인 시스템 전용 챗봇 개발중</details> | <details><summary>**11**</summary>정보처리기사: 1.소프트웨어 설계-29 수강</details> |
-| <details><summary>**12**</summary>정보처리기사: 1.소프트웨어 설계-30 수강, Personal: 개인 프로젝트 정리</details> | <details><summary>**13**</summary>정보처리기사: 1.소프트웨어 설계-31 수강, MFA: Module Federation 학습중</details> | <details><summary>**14**</summary>정보처리기사: 1.소프트웨어 설계-32 수강, MFA: Module Federation 학습중</details> | <details><summary>**15**</summary>정보처리기사: 1.소프트웨어 설계-33 수강, MFA: Module Federation 학습중</details> | <details><summary>**16**</summary>정보처리기사: 1.소프트웨어 설계-34 수강</details> | <details><summary>**17**</summary>정보처리기사: 1.소프트웨어 설계-35 수강</details> | <details><summary>**18**</summary>정보처리기사: 1.소프트웨어 설계-36 수강</details> |
-| <details><summary>**19**</summary>정보처리기사: 1.소프트웨어 설계-37 수강</details> | <details><summary>**20**</summary>정보처리기사: 1.소프트웨어 설계-38 수강</details> | <details><summary>**21**</summary>정보처리기사: 1.소프트웨어 설계-39 수강, AWS:DVA-C02 과정 섹션 8-3 수강</details> | <details><summary>**22**</summary>정보처리기사: 1.소프트웨어 설계-40 수강, E2E: 섹션 4-2 수강</details> | <details><summary>**23**</summary>정보처리기사: 1.소프트웨어 설계-41 수강, E2E: 섹션 4-3,4 수강</details> | <details><summary>**24**</summary>정보처리기사: 1.소프트웨어 설계-42 수강</details> | <details><summary>**25**</summary>정보처리기사: 1.소프트웨어 설계-43 수강</details> |
-| <details><summary>**26**</summary>정보처리기사: 1.소프트웨어 설계-44 수강, E2E: 섹션 4-5~8 수강</details> | <details><summary>**27**</summary>정보처리기사: 1.소프트웨어 설계-45 수강, E2E: 섹션 4-9 수강</details> | <details><summary>**28**</summary>정보처리기사: 1.소프트웨어 설계-46 수강, E2E: 섹션 4 수강 + 섹션 5-1~6 수강</details> | <details><summary>**29**</summary>정보처리기사: 1.소프트웨어 설계-47 수강, E2E: 섹션 5,6 수강 + 섹션 7-1~2 수강</details> | <details><summary>**30**</summary>정보처리기사: 1.소프트웨어 설계-48 수강, E2E: 섹션 7,8 수강</details> | <details><summary>**31**</summary>정보처리기사: 1.소프트웨어 설계-49 수강, NestJS: 섹션 1-3 수강, 섹션 4-1~3 수강</details> |
+|     |     |     |     |     |     | <details><summary>**1**</summary>정보처리기사: 1.소프트웨어 설계-50 수강, NestJS: 섹션 4-4~11 수강, AWS: DVA-C02 과정 섹션 8-3,4 수강</details> |
+| **2** | **3** | **4** | **5** | **6** | **7** | **8** |
+| **9** | **10** | **11** | **12** | **13** | **14** | **15** |
+| **16** | **17** | **18** | **19** | **20** | **21** | **22** |
+| **23** | **24** | **25** | **26** | **27** | **28** |
 
 <!--CALENDAR-END-->
