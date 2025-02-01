@@ -12,7 +12,7 @@
   Currently Interested In
   - Testing (E2E)
   - Fullstack
-  - Dollar Stable Coin
+  - AWS
 
 ## 🛠 Tech Stack
 
