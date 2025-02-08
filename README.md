@@ -50,7 +50,7 @@
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |     |     | <details><summary>**1**</summary>AWS: DVA-C02 과정 섹션 8-3,4 수강</details> |
-| <details><summary>**2**</summary>정보처리기사: 데이터베이스-3 수강, AWS: DVA-C02 과정 섹션 8 수강, NestJS: 섹션 4-4~14 수강</details> | <details><summary>**3**</summary>정보처리기사: 데이터베이스-4 수강, AWS: DVA-C02 과정 섹션 9-1~7 수강, NestJS: 섹션 4,5 수강, 6-1~2 수강</details> | <details><summary>**4**</summary>정보처리기사: 데이터베이스-5,6 수강, AWS: DVA-C02 과정 섹션 9-8~16 수강, NestJS: 섹션 6 수강</details> | <details><summary>**5**</summary>정보처리기사: 데이터베이스-7 수강, AWS: DVA-C02 과정 섹션 9, 섹션 10-1~3 수강, NestJS: 섹션 7, 8-1~3 수강</details> | <details><summary>**6**</summary>정보처리기사: 데이터베이스-8 수강, AWS: DVA-C02 과정 섹션 10 수강</details> | **7** | **8** |
+| <details><summary>**2**</summary>정보처리기사: 데이터베이스-3 수강, AWS: DVA-C02 과정 섹션 8 수강, NestJS: 섹션 4-4~14 수강</details> | <details><summary>**3**</summary>정보처리기사: 데이터베이스-4 수강, AWS: DVA-C02 과정 섹션 9-1~7 수강, NestJS: 섹션 4,5 수강, 6-1~2 수강</details> | <details><summary>**4**</summary>정보처리기사: 데이터베이스-5,6 수강, AWS: DVA-C02 과정 섹션 9-8~16 수강, NestJS: 섹션 6 수강</details> | <details><summary>**5**</summary>정보처리기사: 데이터베이스-7 수강, AWS: DVA-C02 과정 섹션 9, 섹션 10-1~3 수강, NestJS: 섹션 7, 8-1~3 수강</details> | <details><summary>**6**</summary>정보처리기사: 데이터베이스-8 수강, AWS: DVA-C02 과정 섹션 10 수강</details> | <details><summary>**7**</summary>정보처리기사: 데이터베이스-9 수강, AWS: DVA-C02 과정 섹션 11-1 수강</details> | **8** |
 | **9** | **10** | **11** | **12** | **13** | **14** | **15** |
 | **16** | **17** | **18** | **19** | **20** | **21** | **22** |
 | **23** | **24** | **25** | **26** | **27** | **28** |
