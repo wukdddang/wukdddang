@@ -35,9 +35,6 @@
 <br />
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-<br />
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Langchain](https://img.shields.io/badge/-Langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
 
