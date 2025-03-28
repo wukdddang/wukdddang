@@ -47,9 +47,9 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |     |     | <details><summary>**1**</summary>ATS: 프로젝트 개발</details> |
 | <details><summary>**2**</summary>ATS: 프로젝트 개발</details> | <details><summary>**3**</summary>ATS: 프로젝트 개발</details> | <details><summary>**4**</summary>ATS: 프로젝트 개발</details> | <details><summary>**5**</summary>ATS: 프로젝트 개발</details> | <details><summary>**6**</summary>ATS: 프로젝트 개발</details> | <details><summary>**7**</summary>ATS: 프로젝트 개발</details> | <details><summary>**8**</summary>ATS: 프로젝트 개발</details> |
-| <details><summary>**9**</summary>ATS: 프로젝트 개발</details> | **10** | **11** | **12** | **13** | **14** | **15** |
-| **16** | **17** | **18** | **19** | **20** | **21** | **22** |
-| **23** | **24** | **25** | **26** | **27** | **28** | **29** |
+| <details><summary>**9**</summary>ATS: 프로젝트 개발</details> | <details><summary>**10**</summary>ATS: 프로젝트 개발</details> | <details><summary>**11**</summary>ATS: 프로젝트 개발</details> | <details><summary>**12**</summary>ATS: 프로젝트 개발</details> | <details><summary>**13**</summary>ATS: 프로젝트 개발</details> | <details><summary>**14**</summary>ATS: 프로젝트 개발</details> | <details><summary>**15**</summary>ATS: 프로젝트 개발</details> |
+| <details><summary>**16**</summary>ATS: 프로젝트 개발</details> | <details><summary>**17**</summary>ATS: 프로젝트 개발</details> | <details><summary>**18**</summary>ATS: 프로젝트 개발</details> | <details><summary>**19**</summary>ATS: 프로젝트 개발</details> | <details><summary>**20**</summary>ATS: 프로젝트 개발 + 메일 전송 프로그램 개발</details> | <details><summary>**21**</summary>ATS: 프로젝트 개발 + 메일 전송 프로그램 개발</details> | <details><summary>**22**</summary>ATS: 프로젝트 개발 + 메일 전송 프로그램 개발</details> |
+| <details><summary>**23**</summary>ATS: 프로젝트 개발 + 메일 전송 프로그램 개발</details> | <details><summary>**24**</summary>ATS: 프로젝트 개발 + 메일 전송 프로그램 개발 + NestJS: 섹션 8-5~11</details> | <details><summary>**25**</summary>ATS: 프로젝트 개발 + NestJS: 섹션 8-12~15</details> | **26** | **27** | **28** | **29** |
 | **30** | **31** |
 
 <!--CALENDAR-END-->
