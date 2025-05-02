@@ -10,8 +10,8 @@
   - [책잡](https://book-type-error.vercel.app) (Now Developing) 
   
   Currently Interested In
-  - Testing (E2E)
-  - Fullstack
+  - Frontend Testing
+  - Data Engineering
   - AWS
 
 ## 🛠 Tech Stack
