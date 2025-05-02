@@ -2,6 +2,9 @@
 
 ## 🙌 Hello, I'm Wukddang.
 
+[resume](https://wukdddang.vercel.app)
+
+
 <div align="left">
   
   Current Project
