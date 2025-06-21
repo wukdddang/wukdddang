@@ -8,8 +8,7 @@
 <div align="left">
   
   Current Project
-  - LUMIR 채용, 인사평가 시스템 (Now Developing) <br/>
-  - [책잡](https://book-type-error.vercel.app) 
+  - Lumir Satellite Operating System (Now Developing)
   
   Currently Interested In
   - Frontend Testing
