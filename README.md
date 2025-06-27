@@ -4,9 +4,10 @@
 
 [resume](https://wukdddang.vercel.app)
 
+[![wakatime](https://wakatime.com/badge/user/9b8b1e3c-c3ef-4910-b98f-96cd8c45d763.svg)](https://wakatime.com/@9b8b1e3c-c3ef-4910-b98f-96cd8c45d763)  
+
 
 <div align="left">
-  
   Current Project
   - Lumir Satellite Operating System (Now Developing)
   
