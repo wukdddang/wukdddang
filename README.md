@@ -13,7 +13,6 @@
   - Lumir Satellite Operating System (Now Developing)
   
   <br/>
-  <br/>
   
   Currently Interested In
   - Frontend Architecture / Testing 
