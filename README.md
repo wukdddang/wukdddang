@@ -10,9 +10,9 @@
 <div align="left">
   Current Project
   - Lumir Satellite Operating System (Now Developing)
-  
+  <br/>
   Currently Interested In
-  - Frontend Testing
+  - Frontend Architecture / Testing 
   - Backend / Infra
 
 ## 🛠 Tech Stack
