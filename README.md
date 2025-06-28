@@ -9,8 +9,12 @@
 
 <div align="left">
   Current Project
+  
   - Lumir Satellite Operating System (Now Developing)
+  
   <br/>
+  <br/>
+  
   Currently Interested In
   - Frontend Architecture / Testing 
   - Backend / Infra
