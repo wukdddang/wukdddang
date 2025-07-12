@@ -11,10 +11,9 @@
   Current Project
   
   - Lumir Satellite Operating System (Now Developing)
-  
   <br/>
   
-  Currently Interested In
+  Current Interested In
   - Frontend Architecture / Testing 
   - Backend / Infra
 
