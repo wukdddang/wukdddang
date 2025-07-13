@@ -15,7 +15,8 @@
   
   Current Interested In
   - Frontend Architecture / Testing 
-  - Backend / Infra
+  - Backend
+  - AWS
 
 ## 🛠 Tech Stack
 
