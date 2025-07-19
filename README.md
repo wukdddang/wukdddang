@@ -17,6 +17,7 @@
   - Frontend Architecture / Testing 
   - Backend
   - AWS
+  - BlockChain
 
 ## 🛠 Tech Stack
 
