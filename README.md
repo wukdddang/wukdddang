@@ -10,14 +10,14 @@
 <div align="left">
   Current Project
   
-  - Lumir Satellite Operating System (Now Developing)
+  - Lumir ERP (Now Developing)
   <br/>
   
   Current Interested In
   - Frontend Architecture / Testing 
   - Backend
   - AWS
-  - BlockChain
+  - BlockChain / Solidity
 
 ## 🛠 Tech Stack
 
