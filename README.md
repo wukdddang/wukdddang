@@ -15,7 +15,7 @@
   <br/>
   
   Current Interested In
-  - Frontend Architecture / Testing 
+  - Frontend Testing 
   - Backend
   - AWS
   - BlockChain / Solidity
