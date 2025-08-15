@@ -9,7 +9,7 @@
 
 <div align="left">
   Current Project
-  
+
   - Lumir ERP (Now Developing)
   - Lumir Recruitment Interview Management (Now Refactoring)
   <br/>
@@ -27,6 +27,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
+![SWR](https://img.shields.io/badge/-swr-000000?style=for-the-badge&logo=swr&logoColor=white)
 <br/>
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 <br/>
