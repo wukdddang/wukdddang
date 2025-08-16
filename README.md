@@ -17,7 +17,7 @@
   Current Interested In
   - Frontend Testing 
   - Backend
-  - AWS
+  - AWS / Infra
   - BlockChain / Solidity
 
 ## 🛠 Tech Stack
