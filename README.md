@@ -12,6 +12,7 @@
 
   - Lumir ERP (Now Developing)
   - Lumir Recruitment Interview Management (Now Refactoring)
+  - Bitcoin Explorer (Now Developing)
   <br/>
   
   Current Interested In
