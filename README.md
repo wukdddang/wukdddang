@@ -3,6 +3,7 @@
 ## 🙌 Hello, I'm Wukddang.
 
 [resume](https://wukdddang.vercel.app)
+[blog](https://wukdddang.github.io)
 
 [![wakatime](https://wakatime.com/badge/user/9b8b1e3c-c3ef-4910-b98f-96cd8c45d763.svg)](https://wakatime.com/@9b8b1e3c-c3ef-4910-b98f-96cd8c45d763)  
 
