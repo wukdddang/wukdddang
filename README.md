@@ -21,6 +21,7 @@
   - Backend
   - AWS / Infra
   - BlockChain / Solidity
+  - Data Science / Engineering
 
 ## 🛠 Tech Stack
 
