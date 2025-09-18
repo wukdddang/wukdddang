@@ -22,6 +22,9 @@
   - BlockChain / Solidity
   - Data Science / Engineering
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wukdddang&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wukdddang&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wukdddang&theme=github_dark)
 ## 🛠 Tech Stack
 
 ### Main Web Technologies
