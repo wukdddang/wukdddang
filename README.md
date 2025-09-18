@@ -23,11 +23,7 @@
   - Data Science / Engineering
 
 ## 📊 3D Contribution Graph
-![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
-
-<!-- 또는 다른 스타일들 -->
 ![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
-![3D Contribution Graph](./profile-3d-contrib/profile-season-animate.svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wukdddang&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wukdddang&theme=github_dark)
