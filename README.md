@@ -22,7 +22,6 @@
   - BlockChain / Solidity
   - Data Science / Engineering
 
-## 📊 3D Contribution Graph
 ![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wukdddang&theme=github_dark)
