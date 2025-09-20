@@ -10,17 +10,12 @@
 
 <div align="left">
   Current Project
-
   - Lumir ERP (Now Developing)
-  - Lumir Recruitment Interview Management (Now Refactoring)
-  - Bitcoin Explorer (Now Developing)
   <br/>
   
   Current Interested In
-  - Backend
   - AWS / Infra
-  - BlockChain / Solidity
-  - Data Science / Engineering
+  - Linux
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
