@@ -14,6 +14,7 @@
   <br/>
   
   Current Interested In
+  - DDD, Refactoring
   - AWS / Infra
   - Linux
 
