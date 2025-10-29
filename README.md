@@ -14,9 +14,6 @@
   <br/>
   
   Current Interested In
-  - DDD, Refactoring
-  - AWS / Infra
-  - Linux
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
