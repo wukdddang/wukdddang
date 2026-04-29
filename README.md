@@ -190,21 +190,6 @@ Built a content management system covering company announcements, training mater
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
-
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wukdddang&theme=github_dark)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wukdddang&theme=github_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wukdddang&theme=github_dark)
-
-</div>
-
----
-
 <div align="center">
 
 ### 📬 Let's Talk
