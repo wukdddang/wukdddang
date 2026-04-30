@@ -59,8 +59,13 @@ A platform that ingests imagery and metadata from multiple satellite providers (
 📡 **SDPE — SAR Data Processing Element**
 Backend pipeline service that takes raw SAR signals from **Lumir's own SAR satellites** and produces final products. Built the orchestration backend plus a **N8N-style pipeline editor** on the frontend so operators can compose and manage processing flows visually. Owned spec, design, and implementation across both layers.
 
-🛰️ **SAR Data Analysis (Domain Expertise)**
-Hands-on with Linux **SNAP**-based interferometric SAR processing — **DInSAR, PSInSAR, SBAS**. Currently being integrated into the Satellite Analysis Platform.
+🛰️ **Sentinel-1 InSAR DSM Extraction Pipeline** *(in progress, 2026)*
+Government-collaborated R&D project building an automated **InSAR pipeline** that extracts a **DSM (Digital Surface Model)** from Sentinel-1 SLC pairs as a temporary reference DEM for a **DInSAR surface-displacement monitoring** task — used until the national 5m DEM becomes available.
+- **Stack**: ESA **SNAP 12** GPT (`-Xmx87G`) + **SNAPHU 2.0.3** orchestrated from Python (subprocess) on Ubuntu 20.04 (64 CPU / 125 GiB RAM / NVMe), with GeoPandas/Shapely/PyProj/Rasterio for AOI + raster handling and QGIS for visual QA
+- **Pipeline (Stages 0–11)**: TOPS-Split → Apply-Orbit-File → Back-Geocoding → Enhanced Spectral Diversity → Interferogram → Deburst → Goldstein filter + Multilook → SNAPHU Export/Unwrap/Import → Phase-to-Elevation → Range-Doppler Terrain Correction → GeoTIFF (WGS84/UTM 52N)
+- **Engineering choices**: every stage is independently re-runnable from prior artifacts; all parameters (AOI, baseline thresholds, multilook factors, master/slave product IDs) externalized to `pipeline_config.yaml` so the pipeline generalizes to other AOIs; intermediates kept on local NVMe (SMB write-avoidance) to dodge I/O bottlenecks
+- **Migration gotcha solved**: SNAP 12 renamed S1TBX → MicrowaveTBX (`eu.esa.microwavetbx.*`), so InSAR operators (TOPSAR-Split, Back-Geocoding, SnaphuExport, …) aren't enabled by default — documented the `--modules --install` recipe to reproduce a working CLI environment
+- **Hands-on with the broader InSAR toolkit** — **DInSAR, PSInSAR, SBAS** — being folded into the Satellite Analysis Platform as the analytics backbone
 
 📚 **Internal Backoffice / CMS**
 Built a content management system covering company announcements, training materials, and an internal wiki — backend service ownership.
